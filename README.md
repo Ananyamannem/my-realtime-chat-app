@@ -24,3 +24,45 @@ Ensure you have Node.js installed on your machine:
 ```bash
 node -v
 npm -v
+
+Installation
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/Ananyamannem/my-realtime-chat-app.git
+Navigate to the project folder:
+
+bash
+Copy
+Edit
+cd my-realtime-chat-app
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the server:
+
+bash
+Copy
+Edit
+node index.js
+Open your browser and go to:
+
+arduino
+Copy
+Edit
+http://localhost:3000
+Possible Enhancements
+Add user authentication
+
+Create private chat rooms
+
+Add typing indicators
+
+Support for sending images and files
+
+
