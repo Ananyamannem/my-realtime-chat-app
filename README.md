@@ -26,37 +26,28 @@ node -v
 npm -v
 
 Installation
-Clone this repository:
+1.Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Ananyamannem/my-realtime-chat-app.git
-Navigate to the project folder:
 
-bash
-Copy
-Edit
+2.Navigate to the project folder:
+
 cd my-realtime-chat-app
-Install dependencies:
 
-bash
-Copy
-Edit
+3.Install dependencies:
+
 npm install
-Start the server:
 
-bash
-Copy
-Edit
+4.Start the server:
+
 node index.js
-Open your browser and go to:
 
-arduino
-Copy
-Edit
+5.Open your browser and go to:
+
 http://localhost:3000
-Possible Enhancements
+
+Possible Enhancements :
+
 Add user authentication
 
 Create private chat rooms
