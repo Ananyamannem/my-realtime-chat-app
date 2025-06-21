@@ -2,9 +2,7 @@
 
 This project is a real-time chat application built using Socket.IO and Express. The client side is developed with React and is located in the `client` directory.
 
-## Demo Video 🎬
 
-https://github.com/user-attachments/assets/9b58c1a1-b9e6-4351-b872-dd310befa600
 
 ## Getting Started
 
