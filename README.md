@@ -82,14 +82,7 @@ There are several scripts defined in the `package.json` file to help you run the
 - **server.js**: Main server file for the backend using Express and Socket.IO.
 - **client/**: Contains the React frontend for the chat application.
 
-### Author
 
-Ahmet ATAR
 
-### Issues
 
-If you find any bugs or have any issues, please report them [here](https://github.com/CAPELLAX02/socketio-realtime-chat-app/issues).
 
-### Additional Information
-
-For more details on how this project works, visit the [GitHub repository](https://github.com/CAPELLAX02/socketio-realtime-chat-app).
