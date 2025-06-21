@@ -44,6 +44,7 @@ node index.js
 http://localhost:3000
 
 💡 Possible Enhancements
+
 Add user authentication
 
 Create private chat rooms
